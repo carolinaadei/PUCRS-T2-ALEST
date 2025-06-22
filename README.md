@@ -1,12 +1,12 @@
 **ÁRVORE BINÁRIA DE PESQUISA**
 
-#Sobre o projeto:
+_Sobre o projeto:_
  - Lê números de um arquivo (entrada.txt)
  - Constrói a árvore
  - Busca o último número da entrada
  - Gera arquivos com diferentes caminhamentos e o resultado da busca
 
-#Como Funciona:
+_Como Funciona:_
  - Lê os valores do entrada.txt
  - Insere os valores na árvore
  - Usa o último valor como chave de busca
@@ -29,9 +29,9 @@
    - Largura: Por nível, da esquerda para a direita (resposta: 50 30 70 20 40 60 80)
    - Resultado: chave, nodos visitados, total, achou/não achou (resposta: chave a ser localizada: 60; nodos visitados: 50 70 60; quantidade de nodos visitados: 3; achou)
 
-#Informações importantes para rodar o projeto:
+_Informações importantes para rodar o projeto:_
  - Ter Java instalado (preferencialmente a versão mais recente, Java 24) e ter uma IDEA que rode programas em Java (ex: Intellij-recomendado-, Visual Studio Code, ...).
  - Compilar classe App após inserir os valores no arquivo entrada.txt
 
 
-*Realizaado por Carolina de Souza Gonçalves e Ana Clara Purper
+_**Realizaado por Carolina de Souza Gonçalves e Ana Clara Purper**_
