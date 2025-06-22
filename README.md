@@ -34,4 +34,4 @@ _Informações importantes para rodar o projeto:_
  - Compilar classe App após inserir os valores no arquivo entrada.txt
 
 
-_**Realizaado por Carolina de Souza Gonçalves e Ana Clara Purper**_
+_**Realizado por Carolina de Souza Gonçalves e Ana Clara Purper**_
