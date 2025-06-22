@@ -25,7 +25,7 @@ _Como Funciona:_
  - Chave de busca: 60
    - Pré-Ordem: Raiz → Esquerda → Direita (resposta: 50 30 20 40 70 60 80)
    - Pós-Ordem: Esquerda → Direita → Raiz (resposta: 20 40 30 60 80 70 50)
-   - Central (In-Order): Esquerda → Raiz → Direita (resposta: 20 30 40 50 60 70 80)
+   - Central: Esquerda → Raiz → Direita (resposta: 20 30 40 50 60 70 80)
    - Largura: Por nível, da esquerda para a direita (resposta: 50 30 70 20 40 60 80)
    - Resultado: chave, nodos visitados, total, achou/não achou (resposta: chave a ser localizada: 60; nodos visitados: 50 70 60; quantidade de nodos visitados: 3; achou)
 
